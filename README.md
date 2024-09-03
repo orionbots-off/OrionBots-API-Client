@@ -80,4 +80,4 @@ Link of the project: [https://github.com/orionbots-off/OrionBots-API-Client](htt
 MrCat ツ : justmrcat
 
 ## Prewiew
-[![prewiew](https://cdn.discordapp.com/attachments/1251445141366116374/1275402539000660011/image.png?ex=66c5c2ad&is=66c4712d&hm=4fc32dc702ef883d78ed987625c13dec8af8fb5daa8a973699d9ba357c97db4e&)]
+<img align="center" src="OBC.png" width="100%"> 
